@@ -50,9 +50,14 @@ Aplicativo em React Native para previsao do tempo , dados sao retornados de uma 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Buscar dados de uma cidade e retornar informacoes climaticas
+
+
+<h2> Tela Inicial </h2>
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/67026555/234673465-28de144a-d08a-48bc-9468-9db6e1cc3adb.png" widht='340px' height='540px'    alt="app-iphone14-pro"/>
+</p>
+
 
 ## :rocket: Technologias ##
 
