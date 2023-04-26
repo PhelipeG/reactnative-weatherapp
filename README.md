@@ -71,7 +71,7 @@ Tecnologias e Ferramentas usadas neste projeto
 
 ## :white_check_mark: Requirements ##
 
-Para Iniciar :checkered_flag:, Voce deve ter o [Git](https://git-scm.com),[Node](https://nodejs.org/en/)  e [Expo] instalados em sua maquina.
+Para Iniciar :checkered_flag:, Voce deve ter o [Git](https://git-scm.com),[Node](https://nodejs.org/en/)  e [Expo](https://expo.dev/) instalados em sua maquina.
 
 ## :checkered_flag: Clonando Projeto ##
 
