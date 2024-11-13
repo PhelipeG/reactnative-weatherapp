@@ -101,7 +101,7 @@ $ yarn start
 Licenca [LICENSE](LICENSE.md) 
 
 
-De :heart: para <a href="https://github.com/Guilhaof" target="_blank">Guilhaof</a>
+De :heart: para <a href="https://github.com/PhelipeG" target="_blank">PhelipeG</a>
 
 &#xa0;
 
